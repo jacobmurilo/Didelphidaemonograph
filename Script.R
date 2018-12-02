@@ -1,7 +1,7 @@
 ########################################################################################
 #This script was written for the biogeographic analyses of Dahur, M. J. (2019)
 #Special thanks to Gabriel S. Ferreira for helping with the script
-#All files can be found at GitHub repository: LINK
+#All files can be found at GitHub repository: https://github.com/jacobmurilo/Didelphidaemonograph
 #We conducted ancestral area reconstruction and biogeographic stochastic mapping (BSM) on DEC, DEC+w, DIVALIKE, DIVALIKE+W, BAYAREALIKE AND BAYAREALIKE+w
 #Using the package BioGeoBEARS (Matzke, 2013)
 #Correspondece to: murillojacob@outlook.com
